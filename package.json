@@ -1,0 +1,11 @@
+{
+  "name": "hadith-ts-takhrij-multi-book",
+  "version": "1.0.0",
+  "description": "Automated Hadith Takhrij Cross-Indexer Across Kutub Al-Sittah (مخرّج الأحاديث الآلي في الكتب التسعة ومصادر السنة)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
